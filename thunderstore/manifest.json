@@ -1,0 +1,9 @@
+{
+  "name": "RadarLabelsFix",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Kevin-Chant/RadarLabelsFix",
+  "description": "Fixes ship monitor/radar names showing one player while tracking another, which made the teleporter beam the wrong person. Client-side.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
